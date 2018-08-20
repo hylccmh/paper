@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>project_name</key>
+	<string>paper</string>
+	<key>project_path</key>
+	<string>./</string>
+	<key>project_version</key>
+	<string>1.0</string>
+	<key>scheme_name</key>
+	<string>paper</string>
+	<key>ipa_name</key>
+	<string>paper</string>
+	<key>ipa_path</key>
+	<string>/Users/huyunlong/Desktop/ipa</string>
+	<key>plist_path</key>
+	<string>./exportAdHoc.plist</string>
+	<key>configuration</key>
+	<string>Debug</string>
+	<key>upload_address</key>
+	<string>PGY</string>
+	<key>user_key</key>
+	<string></string>
+	<key>api_key</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+	<key>fir_token</key>
+	<string></string>
+	<key>dev_account</key>
+	<string></string>
+	<key>dev_password</key>
+	<string></string>
+</dict>
+</plist>
